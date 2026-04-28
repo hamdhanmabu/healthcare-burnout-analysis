@@ -246,12 +246,11 @@ Power BI helps non-technical managers understand complex workforce issues quickl
 * Burnout Risk Dashboard (Power BI)
 
 ---
+## 🔗 Project Repository
 
-#  How to Run This Project
+[View Full Project Here]()
 
-```bash
-pip install -r requirements.txt
-python main.py
+```
 ```
 
 ---
