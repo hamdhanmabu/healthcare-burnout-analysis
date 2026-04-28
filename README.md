@@ -246,11 +246,15 @@ Power BI helps non-technical managers understand complex workforce issues quickl
 * Burnout Risk Dashboard (Power BI)
 
 ---
-## 🔗 Project Repository
+## 🚀 Open in Google Colab
 
-[View Full Project Here]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dSJOMpV4NUxFadzB38poEDNvjwJCI2H3?usp=sharing)
 
-```
+---
+## 📓 Jupyter Notebook
+
+[Open Full Notebook](./healthcare_burnout_analysis.ipynb)
+
 ```
 
 ---
