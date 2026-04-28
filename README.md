@@ -255,8 +255,6 @@ Power BI helps non-technical managers understand complex workforce issues quickl
 
 [Open Full Notebook](./healthcare_burnout_analysis.ipynb)
 
-```
-
 ---
 
 #  Project Structure
