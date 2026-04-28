@@ -200,13 +200,13 @@ After Python analysis, the cleaned data was transformed into an interactive dash
 
 ### Dashboard Features:
 
-✔ KPI Cards
-✔ Department-wise Stress Tracking
-✔ Burnout Risk Segmentation
-✔ Turnover Monitoring
-✔ Filters by Role / Department
-✔ Trend Visualizations
-✔ Executive Summary Insights
+* Cards
+* Department-wise Stress Tracking
+* Burnout Risk Segmentation
+* Turnover Monitoring
+* Filters by Role / Department
+* Trend Visualizations
+* Executive Summary Insights
 
 ### Why Power BI?
 
@@ -261,11 +261,9 @@ python main.py
 ```bash
 healthcare-burnout-analysis/
 │── main.py
-│── dataset.csv
-│── dashboard.pbix
-│── requirements.txt
+│── Project word document
 │── README.md
-│── images/
+│── mental_health_data.csv
 ```
 
 ---
