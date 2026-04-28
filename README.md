@@ -261,17 +261,17 @@ Power BI helps non-technical managers understand complex workforce issues quickl
 
 ## 📄 Project Report
 
-[Download Full Project Report (.docx)](./Project_Word_Document.docx)
-
+[Download Full Project Report (.docx)](./Healthcare_Burnout_Report.docx)
 
 #  Project Structure
 
 ```bash
 healthcare-burnout-analysis/
 │── main.py
-│── Project word document
+│── Healthcare_Burnout_Report.docx
 │── README.md
-│── mental_health_data.csv
+│── healthcare_burnout-analysis.ipynb
+│──mental_health_data.csv
 ```
 
 ---
