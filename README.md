@@ -10,7 +10,7 @@ Using a dataset of **5,000 healthcare employees**, this analysis explores how st
 
 The goal is simple:
 
- Turn raw employee data into actionable business insights that help organizations improve employee wellness, retention, and productivity.
+ Turn raw employee data into actionable business insights that help organizations improve employee wellness, retention, and productivity
 
 ---
 
