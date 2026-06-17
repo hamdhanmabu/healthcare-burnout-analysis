@@ -6,7 +6,7 @@ Employee well-being has become one of the biggest challenges in modern healthcar
 
 This project was created to analyze workforce mental health patterns using **Python** and transform the findings into an interactive **Power BI Dashboard** for decision-makers.
 
-Using a dataset of **5,000 healthcare employees**, this analysis explores how stress levels, burnout frequency, job satisfaction, department type, and turnover intention are connected.
+Using a dataset of **5,000 healthcare employees**, this analysis explores how stress levels, burnout frequency, job satisfaction, department type, and turnover intention are connected
 
 The goal is simple:
 
