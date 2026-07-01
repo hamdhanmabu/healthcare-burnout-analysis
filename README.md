@@ -14,7 +14,7 @@ The goal is simple:
 
 ---
 
-#  Tools & Technologies Used
+#  Tools & Technologies Used:
 
 ###  Python (Data Analytics)
 
