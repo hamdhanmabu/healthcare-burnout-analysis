@@ -2,7 +2,7 @@
 
 ##  Project Overview
 
-Employee well-being has become one of the biggest challenges in modern healthcare organizations. Long shifts, emotional pressure, staff shortages, and work-life imbalance often lead to stress, burnout, absenteeism, and high turnover.
+Employee well-being has become one of the biggest challenges in modern healthcare organizations. Long shifts, emotional pressure, staff shortages, and work-life imbalance often lead to stress, burnout, absenteeism,and high turnover.
 
 This project was created to analyze workforce mental health patterns using **Python** and transform the findings into an interactive **Power BI Dashboard** for decision-makers.
 
